@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %}Select a profile{% endblock %}
+
+{% block content %}
+
+<form>
+  <select name="drop1" id="select_profile">
+    {% for user in object_list %}
+    <option value="{% url 'api_dispatch_detail' api_name='v1' resource_name='profile' pk=user.id %}?format=json"> {{ user.name }} </option>
+    {% endfor %}
+</form>
+
+</select>
+
+{% endblock %}

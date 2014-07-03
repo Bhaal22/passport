@@ -1,0 +1,110 @@
+[
+  {
+    "model" : "training.Profile",
+    "pk" : 1,
+    "fields" : {
+      "name" : "Jonathan Muller",
+      "fc_max_run" : 190,
+      "fc_max_bike" : 180,
+      "fc_rest" : 45
+    }
+  },
+
+  {
+	  "model" : "training.Profile",
+	  "pk" : 2,
+    "fields" : {
+      "name" : "Anne-Sophie Eliet",
+      "fc_max_run" : 190,
+      "fc_max_bike" : 185,
+      "fc_rest" : 58
+    }
+  },
+
+  {
+    "model" : "training.Race",
+    "pk" : 1,
+    "fields" : {
+      "name" : "Prom Classic"
+    }
+  },
+  
+  {
+    "model" : "training.Race",
+    "pk" : 2,
+    "fields" : {
+      "name" : "Ironman Nice"
+    }
+  },
+
+  {
+    "model" : "training.Race",
+    "pk" : 3,
+    "fields" : {
+      "name" : "Marathon Paris"
+    }
+  },
+
+  {
+    "model" : "training.RaceInstance",
+    "pk" : 1,
+    "fields" : {
+      "race" : 1,
+      "date" : "2008-01-06"
+    }
+  },
+
+  {
+    "model" : "training.RaceInstance",
+    "pk" : 2,
+    "fields" : {
+      "race" : 1,
+      "date" : "2009-01-11"
+    }
+  },
+
+  {
+    "model" : "training.RaceInstance",
+    "pk" : 3,
+    "fields" : {
+      "race" : 1,
+      "date" : "2010-01-10"
+    }
+  },
+  
+  {
+    "model" : "training.RaceInstance",
+    "pk" : 4,
+    "fields" : {
+      "race" : 1,
+      "date" : "2011-01-09"
+    }
+  },
+  
+  {
+    "model" : "training.RaceInstance",
+    "pk" : 5,
+    "fields" : {
+      "race" : 1,
+      "date" : "2012-01-08"
+    }
+  },
+
+  {
+    "model" : "training.RaceInstance",
+    "pk" : 6,
+    "fields" : {
+      "race" : 1,
+      "date" : "2013-01-06"
+    }
+  },
+
+  {
+    "model" : "training.RaceInstance",
+    "pk" : 7,
+    "fields" : {
+      "race" : 1,
+      "date" : "2014-01-05"
+    }
+  }
+]

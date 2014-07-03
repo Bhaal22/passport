@@ -1,0 +1,25 @@
+﻿<div id="profilesDisplay">
+  <form  ng-controller="FormCtrl" ng-submit="submit()" class="container">
+    {% csrf_token %}
+    <select ng-model="profile" ng-options="p as p.name for p in profiles">
+    </select>
+    <input type="submit" ngClick="Submit"/>
+
+     <pre>{{profile | json}}</pre>
+  </form>
+</div>
+
+<!-- {{profileuri}}/{{item.id}} -->
+
+<!--
+<div id="actionsWrap">
+    <div data-ng-repeat="item in profiles" id="{{item.id}}" class="container">
+        <a href="#passport">
+            <div class="icon"></div>
+            <h2>{{item.name}}</h2>
+            <div class="description">{{item.description}}</div>
+
+        </a>
+    </div>
+</div>
+-->
