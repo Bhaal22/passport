@@ -1,2 +1,0 @@
-athleteManager.run(function($rootScope, $location, $log) { 
-})

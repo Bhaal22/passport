@@ -1,4 +1,0 @@
-var FormCtrl = function ($scope, $http) {
-};
-
-athleteManager.controller('FormCtrl', ['$scope', '$http', FormCtrl]);

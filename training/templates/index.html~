@@ -1,8 +1,0 @@
-<ul>
-  {% for user in profiles %}
-  <li><a href="{% url 'api_dispatch_detail' api_name='v1' resource_name='profile' pk=user.id %}?format=json"> {{ user.name }} </a></li>
-  {% endfor %}
-
-  
-  
-</ul>
