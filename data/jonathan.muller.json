@@ -1,0 +1,96 @@
+"races": [
+    {
+				"name": "Prom Classic",
+				"location": "Nice",
+				"date": "01-06-2008",
+				"type": "run",
+				"distance": "10km"
+				"time": "00:55:59"
+		},
+
+		{
+				"name": "Marathon de Nice",
+				"location": "Nice",
+				"date": "11-09-2008",
+				"type": "run",
+				"distance": "marathon",
+				"time": "03:47:04"
+		},
+		{
+				"name": "Prom Classic",
+				"location": "Nice",
+				"date": "01-11-2009",
+				"type": "run",
+				"distance": "10km",
+				"time": "00:42:18"
+		},
+		{
+				"name": "Marathon de Paris",
+				"location": "Paris",
+				"date": "04-11-2010",
+				"type": "run",
+				"distance": "marathon",
+				"time": "03:23:52"
+		},
+		{
+				"name": "Triathlon de Toulon",
+				"location": "Toulon",
+				"date": "05-09-2010",
+				"type": "triathlon",
+				"distance": "CD",
+				"time": "02:43:09"
+				"swimming_split": "00:25:11",
+				"bike_split": "01:34:17",
+				"run_split": "00:43:42"
+		},
+		{
+				"name": "Triathlon du Sud",
+				"location": "Sommières",
+				"date": "05-16-2010",
+				"type": "triathlon",
+				"distance": "Half Ironman",
+				"time": "05:14:33"
+				"swimming_split": "00:21:36",
+				"bike_split": "03:04:58",
+				"run_split": "01:47:58"
+		},
+		{
+				"name": "Ironman France",
+				"location": "Nice",
+				"date": "06-27-2010",
+				"type": "triathlon",
+				"distance": "Ironman",
+				"time": "12:02:23"
+				"swimming_split": "00:56:31",
+				"bike_split": "05:52:18",
+				"run_split": "05:04:13"
+		},
+		{
+				"name": "Triathlon XL Gérardmer",
+				"location": "Gérardmer",
+				"date": "09-04-2010",
+				"type": "triathlon",
+				"distance": "Half Ironman",
+				"time": "06:11:43",
+				"swimming_split": "00:27:04",
+				"t1_split": "00:04:46",
+				"bike_split": "03:36:20",
+				"t2_split": "00:04:08",
+				"run_split": "01:59:23"
+		},
+
+		{
+				"name": "Triathlon XL Gérardmer",
+				"location": "Gérardmer",
+				"date": "09-01-2012",
+				"type": "triathlon",
+				"distance": "Half Ironman",
+				"time": "06:27:13",
+				"swimming_split": "00:27:44",
+				"t1_split": "00:07:32",
+				"bike_split": "03:55:54",
+				"t2_split": "00:05:56",
+				"run_split": "01:50:05"
+		}
+		
+];
