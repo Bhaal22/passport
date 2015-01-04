@@ -80,6 +80,15 @@
 		},
 
 		{
+				"name": "Prom Classic",
+				"location": "Nice",
+				"date": "01-09-2011",
+				"type": "run",
+				"distance": "10km",
+				"time": "00:40:21"
+		},
+
+		{
 				"name": "Triathlon XL Gérardmer",
 				"location": "Gérardmer",
 				"date": "09-01-2012",
