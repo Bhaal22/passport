@@ -117,6 +117,36 @@
 				"bike_split": "03:55:54",
 				"t2_split": "00:05:56",
 				"run_split": "01:50:05"
-		}
+		},
+
+  {
+		"name": "70.3 Aix",
+		"location": "Aix en Provences",
+		"date": "05-03-2014",
+		"type": "triathlon",
+		"bib": "842",
+		"distance": "Half Ironman",
+		"time": "05:39:04",
+		"swimming_split": "00:28:47",
+		"t1_split": "00:06:37",
+		"bike_split": "03:02:23",
+		"t2_split": "00:04:59",
+		"run_split": "01:56:18"
+	},
+  
+  {
+		"name": "Triathlon XL Gérardmer",
+		"location": "Gérardmer",
+		"date": "09-05-2015",
+		"type": "triathlon",
+		"bib": "887",
+		"distance": "Half Ironman",
+		"time": "06:39:50",
+		"swimming_split": "00:28:39",
+		"t1_split": "00:07:32",
+		"bike_split": "04:00:44",
+		"t2_split": "00:07:01",
+		"run_split": "01:55:51"
+	}
 		
 ];
