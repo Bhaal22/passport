@@ -122,6 +122,21 @@
   {
 		"name": "70.3 Aix",
 		"location": "Aix en Provences",
+		"date": "05-18-2014",
+		"type": "triathlon",
+		"bib": "587",
+		"distance": "Half Ironman",
+		"time": "05:10:30",
+		"swimming_split": "00:28:19",
+		"t1_split": "00:06:44",
+		"bike_split": "02:54:33",
+		"t2_split": "00:03:13",
+		"run_split": "01:37:41"
+	},
+
+  {
+		"name": "70.3 Aix",
+		"location": "Aix en Provences",
 		"date": "05-03-2014",
 		"type": "triathlon",
 		"bib": "842",
