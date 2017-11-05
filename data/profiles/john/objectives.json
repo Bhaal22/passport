@@ -1,0 +1,17 @@
+"objectives": [
+    "2018-01-10": {
+        "race_name": "Vondelpark run",
+        "type": "running",
+        "distance": "10km"
+    },
+    "2018-05-02": {
+        "race_name": "Iroman 70.3 St George",
+        "type": "triathlon"
+        "distance": "half ironman"
+    },
+    "2018-08-19": {
+        "race_name": "Ironman Mont Tremblant",
+        "type": "triathlon"
+        "distance": "ironman"
+    }
+]
