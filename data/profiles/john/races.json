@@ -52,7 +52,7 @@
 				"location": "Toulon",
 				"date": "05-09-2010",
 				"type": "triathlon",
-				"distance": "CD",
+				"distance": "Olympic",
 				"time": "02:43:09"
 				"swimming_split": "00:25:11",
 				"bike_split": "01:34:17",
@@ -148,7 +148,7 @@
 		"t2_split": "00:04:59",
 		"run_split": "01:56:18"
 	},
-  
+
   {
 		"name": "Triathlon XL Gérardmer",
 		"location": "Gérardmer",
@@ -163,5 +163,4 @@
 		"t2_split": "00:07:01",
 		"run_split": "01:55:51"
 	}
-		
 ];
