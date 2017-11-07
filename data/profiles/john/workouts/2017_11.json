@@ -1,0 +1,29 @@
+"workouts": [
+    {
+        "date": "2017-11-06",
+        "time": "morning"
+        "type": "bike",
+        "distance": "33km03",
+        "duration": "1h15:52",
+        "content": "slow pace 70%",
+        "remark": "aller retour boulot @hofddorp"
+    },
+    {
+        "date": "2017-11-06",
+        "time": "evening"
+        "type": "run",
+        "distance": "7.8km",
+        "duration": "42min",
+        "content": "fundamental endurance 70%",
+        "remark": "enchainement avec le velo"
+    },
+    {
+        "date": "2017-11-06",
+        "time": "morning"
+        "type": "bike",
+        "distance": "",
+        "duration": "",
+        "content": "slow pace 70%",
+        "remark": "aller retour boulot @hofddorp"
+    },
+]
