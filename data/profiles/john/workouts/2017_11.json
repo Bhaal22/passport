@@ -1,7 +1,7 @@
-"workouts": [
-    {
+{
+    "workouts": [{
         "date": "2017-11-06",
-        "time": "morning"
+        "time": "morning",
         "type": "bike",
         "distance": "33km03",
         "duration": "1h15:52",
@@ -10,7 +10,7 @@
     },
     {
         "date": "2017-11-06",
-        "time": "evening"
+        "time": "evening",
         "type": "run",
         "distance": "7.8km",
         "duration": "42min",
@@ -18,12 +18,40 @@
         "remark": "enchainement avec le velo"
     },
     {
-        "date": "2017-11-06",
-        "time": "morning"
+        "date": "2017-11-07",
+        "time": "morning",
+        "type": "bike",
+        "distance": "49.77km",
+        "duration": "2h05min",
+        "content": "slow pace 70%",
+        "remark": "aller retour boulot @hofddorp + aller retour paradiso noord pour le concert de mantar"
+    },
+    {
+        "date": "2017-11-08",
+        "time": "launch",
+        "type": "swim",
+        "distance": "2300m",
+        "duration": "50min",
+        "content": "warmup: 4x200m (1 Free / 1 Free+PB / 1 Back / 1 Back+PB) / 200m legs | 4x100 technic | 8x50 (25 quick / 25 slow) | 400 Free+PB (breathe: 3/5/7/9) | cooldown: 100m",
+        "remark": ""
+    },
+    {
+        "date": "2017-11-08",
+        "time": "evening",
+        "type": "bike",
+        "distance": "24km",
+        "duration": "1h",
+        "content": "soft",
+        "remark": ""
+    },
+    {
+        "date": "2017-11-09",
+        "time": "morning",
         "type": "bike",
         "distance": "",
         "duration": "",
-        "content": "slow pace 70%",
-        "remark": "aller retour boulot @hofddorp"
-    },
+        "content": "",
+        "remark": ""
+    }
 ]
+}
