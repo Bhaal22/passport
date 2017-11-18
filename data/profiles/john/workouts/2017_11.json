@@ -28,7 +28,7 @@
     },
     {
         "date": "2017-11-08",
-        "time": "launch",
+        "time": "lunch",
         "type": "swim",
         "distance": "2300m",
         "duration": "50min",
@@ -48,10 +48,77 @@
         "date": "2017-11-09",
         "time": "morning",
         "type": "bike",
-        "distance": "",
-        "duration": "",
-        "content": "",
-        "remark": ""
+        "distance": "33km03",
+        "duration": "1h15:52",
+        "content": "slow pace 70%",
+        "remark": "aller retour boulot @hofddorp"
+    },
+    {
+        "date": "2017-11-11",
+        "time": "morning",
+        "type": "run",
+        "distance": "6km",
+        "duration": "30min",
+        "content": "slow pace 70%, a jeun"
+    },
+    {
+        "date": "2017-11-12",
+        "time": "evening",
+        "type": "bike",
+        "sub": "indoor",
+        "distance": "17.38km",
+        "duration": "1h",
+        "content": ""
+    },
+    {
+        "date": "2017-11-13",
+        "time": "evening",
+        "type": "bike",
+        "sub": "indoor",
+        "distance": "11.57km",
+        "duration": "40min",
+        "content": "warmup: 10 min / body: 2x(1min LL | 1min RL | 2min AL) | 5x(1min 100rpm | 1 min 80rpm) / cooldown: 12min"
+    },
+    {
+        "date": "2017-11-15",
+        "time": "lunch",
+        "type": "swim",
+        "distance": "2000",
+        "duration": "45min",
+        "content": "diversity"
+    },
+    {
+        "date": "2017-11-15",
+        "time": "evening",
+        "type": "run",
+        "distance": "7.06km",
+        "duration": "40min",
+        "content": "diversity"
+    },
+    {
+        "date": "2017-11-16",
+        "time": "lunch",
+        "type": "swim",
+        "distance": "2000",
+        "duration": "45min",
+        "content": "diversity: focus on technic"
+    },
+    {
+        "date": "2017-11-16",
+        "time": "evening",
+        "type": "bike",
+        "sub": "indoor",
+        "distance": "11.57km",
+        "duration": "40min",
+        "content": "warmup: 10 min / body: 2x(1min LL | 1min RL | 2min AL) | 5x(1min 100rpm | 1 min 80rpm) / cooldown: 12min"
+    },
+    {
+        "date": "2017-11-17",
+        "time": "lunch",
+        "type": "swim",
+        "distance": "2000",
+        "duration": "45min",
+        "content": "diversity: focus on leg technic"
     }
 ]
 }
