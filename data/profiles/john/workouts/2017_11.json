@@ -110,7 +110,7 @@
         "sub": "indoor",
         "distance": "11.57km",
         "duration": "40min",
-        "content": "warmup: 10 min / body: 2x(1min LL | 1min RL | 2min AL) | 5x(1min 100rpm | 1 min 80rpm) / cooldown: 12min"
+        "content": "warmup: 10 min / body: 2x(1min LL | 1min RL | 2min 2L) | 5x(1min 100rpm | 1 min 80rpm) / cooldown: 12min"
     },
     {
         "date": "2017-11-17",
@@ -119,6 +119,74 @@
         "distance": "2000",
         "duration": "45min",
         "content": "diversity: focus on leg technic"
-    }
+    },
+    {
+        "date": "2017-11-18",
+        "time": "morning",
+        "type": "run",
+        "distance": "8km",
+        "duration": "42min33",
+        "content": "slow pace"
+    },
+    {
+        "date": "2017-11-19",
+        "time": "evening",
+        "type": "bike",
+        "sub": "indoor",
+        "distance": "10km",
+        "duration": "35min",
+        "content": ""
+    },
+    {
+        "date": "2017-11-20",
+        "time": "lunch",
+        "type": "swim",
+        "distance": "2200",
+        "duration": "45min",
+        "content": "warmup: 200 NC | body:4x400 (NC / PB / Pl+PB / NC) | 300 legs | cooldown: 100 NC"
+    },
+    {
+        "date": "2017-11-20",
+        "time": "evening",
+        "type": "bike",
+        "sub": "indoor",
+        "distance": "11.66km",
+        "duration": "40min",
+        "content": "warmup: 10min | body: 2x(1min LL / 1min RL / 2min 2L) | 7x(45sec 110rpm / 1 min 80rpm) | cooldown: 10min"
+    },
+    {
+        "date": "2017-11-21",
+        "time": "evening",
+        "type": "bike",
+        "distance": "33km",
+        "duration": "1h20",
+        "content": "slow pace 70%",
+        "remark": "aller retour boulot @hofddorp"
+    },
+    {
+        "date": "2017-11-22",
+        "time": "evening",
+        "type": "run",
+        "distance": "8km",
+        "duration": "40min",
+        "content": "warmup: 17min | body: 2x5min seuil - 3min repos | cooldown: 10min"
+    },
+    {
+        "date": "2017-11-23",
+        "time": "lunch",
+        "type": "swim",
+        "distance": "2000",
+        "duration": "45min",
+        "content": "warmup: 200 NC | body: 2x(400 Free / 200 Back / 100 Break / NC+PB) / 200 L | cooldown: 200 Free"
+    },
+    {
+        "date": "2017-11-23",
+        "time": "evening",
+        "type": "bike",
+        "sub": "indoor",
+        "distance": "12.74km",
+        "duration": "50min",
+        "content": "warmup: 10min | body: 2x(1min LL / 1min RL / 2min 2L) | 6x(1min 80rpm / 1 min 110rpm) | cooldown: 15min"
+    },
 ]
 }
