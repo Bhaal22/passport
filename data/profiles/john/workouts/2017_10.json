@@ -1,4 +1,5 @@
-"workouts": [
+{
+    "workouts": [
     "2017-10-30": {
         "type": "swim",
         "distance": "2000m",
@@ -13,4 +14,4 @@
         "duration": "42min",
         "content": "warmup: 12min ; 8' (2x(30sec/30sec 1Leg) + 2min 2 Legs) | 5x((1min/1min) 60-80rpm 65-70%) ; cooldown: 5min"
     }
-]
+]}
