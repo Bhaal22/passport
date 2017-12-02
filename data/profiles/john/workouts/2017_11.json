@@ -188,5 +188,63 @@
         "duration": "50min",
         "content": "warmup: 10min | body: 2x(1min LL / 1min RL / 2min 2L) | 6x(1min 80rpm / 1 min 110rpm) | cooldown: 15min"
     },
-]
+    {
+        "date": "2017-11-24",
+        "time": "evening",
+        "type": "run",
+        "distance": "8.59km",
+        "duration": "43min",
+        "content": "endurance fondamentale"
+    },
+    {
+        "date": "2017-11-26",
+        "time": "evening",
+        "type": "bike",
+        "sub": "indoor",
+        "distance": "11.85km",
+        "duration": "1h01",
+        "content": "endurance fondamentale"
+    },
+    {
+        "date": "2017-11-27",
+        "time": "lunch",
+        "type": "swim",
+        "distance": "3000",
+        "duration": "1h",
+        "content": "endurance: 800 / 400 / 200 / 100 / 100 / 200 / 400 / 800 NC"
+    },
+    {
+        "date": "2017-11-27",
+        "time": "evening",
+        "type": "bike",
+        "sub": "indoor",
+        "distance": "12.88km",
+        "duration": "45min",
+        "content": "warmup: 10min | body: 2x(1min LL / 1min RL / 2min 2L) | 6x(1min 80rpm / 1 min 110rpm) | cooldown: 15min"
+    },
+    {
+        "date": "2017-11-28",
+        "time": "evening",
+        "type": "run",
+        "distance": "7.34km",
+        "duration": "38min",
+        "content": "endurance fondamentale"
+    },
+    {
+        "date": "2017-11-29",
+        "time": "lunch",
+        "type": "swim",
+        "distance": "1700",
+        "duration": "35min",
+        "content": "endurance / focus legs / technic"
+    },
+    {
+        "date": "2017-11-30",
+        "time": "evening",
+        "type": "bike",
+        "sub": "indoor",
+        "distance": "15.30km",
+        "duration": "50min",
+        "content": "endurance"
+    }]
 }

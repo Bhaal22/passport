@@ -1,0 +1,11 @@
+{
+    "workouts": [{
+        "date": "2017-12-02",
+        "time": "morning",
+        "type": "bike",
+        "distance": "21.71",
+        "duration": "1h15:52",
+        "content": "warmup: 30minn | body: 2x(1min LL / 1min RL / 2min 2L) | 6x(1min 80rpm / 1 min 110rpm) | cooldown: 30min",
+        "remark": ""
+    }]
+}
